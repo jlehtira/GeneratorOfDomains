@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1376943736 source:c:\development\generatorofdomains\god\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
